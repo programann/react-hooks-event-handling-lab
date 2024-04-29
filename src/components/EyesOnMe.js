@@ -1,7 +1,7 @@
 // Code EyesOnMe Component Here
 import React from 'react';
 
-const EyesOnMe = () => {
+function EyesOnMe() {
   const handleFocus = () => {
     console.log('Good!');
   };

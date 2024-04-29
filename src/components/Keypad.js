@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Keypad = () => {
+function Keypad() {
   const handleChange = () => {
     console.log('Entering password...');
   };
